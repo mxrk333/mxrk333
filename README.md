@@ -1,4 +1,4 @@
-# 🇵🇭 I'm Mark Christian! 👋 ᜶ 
+# 🇵🇭 I'm Mark Christian! 👋
 
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?duration=2600&pause=1200&color=AAAAAA&center=true&vCenter=true&width=420&lines=building+systems;writing+clean+code;shipping+reliable+software" />
