@@ -9,4 +9,4 @@
 - Firebase / GCP
 
 ## 📫 Contact
-- Email: your@email.com
+- Email: markpatigayon440@gmail.com
