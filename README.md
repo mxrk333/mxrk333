@@ -1,32 +1,55 @@
-# Mark Christian
+# Mabuhay! I'm Mark Christian! 👋 ᜶ 🇵🇭
 
-> building products, not just code
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?duration=2600&pause=1200&color=AAAAAA&center=true&vCenter=true&width=420&lines=building+systems;writing+clean+code;shipping+reliable+software" />
+</p>
+
+<p align="center">
+  <b>Software Engineer</b> · Backend · Cloud
+</p>
 
 ---
 
-**Fullstack Developer**
-APIs • Cloud • Systems
+<p align="center">
+  I build reliable systems, clean APIs, and scalable backend services.
+</p>
 
 ---
 
-### Current Focus
+### Work
 
-* scalable backend systems
-* API architecture & integrations
+* backend systems & API development
 * cloud infrastructure (GCP)
+* system design & performance
 
 ---
 
-### Stack
+### Tools
 
-`PHP` `MySQL` `typescript` `node` `react` `gcp` `firebase`
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=ts,nodejs,react,gcp,firebase,git" />
+</p>
+
+---
+
+### Activity
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=mxrk333&theme=transparent&hide_border=true" height="120"/>
+</p>
 
 ---
 
 ### Contact
 
-[markpatigayon440@gmail.com](mailto:markpatigayon440@gmail.com)
+<p align="center">
+  📧 markpatigayon440@gmail.com
+  🔗 https://www.linkedin.com/in/mark-christian-patigayon-332709252/
+  📱 +63 919 462 0030  
+</p>
 
 ---
 
-<sub>shipping > talking</sub>
+<p align="center">
+  <sub>simple code. solid systems.</sub>
+</p>
