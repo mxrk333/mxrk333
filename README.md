@@ -68,7 +68,7 @@
 ### Activity
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=mxrk333&theme=transparent&hide_border=true" height="120"/>
+  <img src="https://streak-stats.demolab.com?user=mxrk333&theme=transparent&hide_border=true" height="121"/>
 </p>
 
 ---
