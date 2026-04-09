@@ -10,7 +10,7 @@
 
 ---
 
-<p align="center">
+<p align="center"> 
   I build reliable systems, clean APIs, and scalable backend services.
 </p>
 
@@ -18,9 +18,9 @@
 
 ### Work
 
-* backend systems & API development
-* cloud infrastructure (GCP)
-* system design & performance
+* Backend Systems & API development
+* Cloud Infrastructure (GCP)
+* System Design & Performance
 
 ---
 
