@@ -5,7 +5,7 @@
 </p>
 
 <p align="center">
-  <b>Software Engineer</b> · Backend · Cloud
+  <b>Software Engineer</b> · Frontend · Cloud
 </p>
 
 ---
