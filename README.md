@@ -28,4 +28,16 @@ I build modern web applications, scalable backend systems, and polished user exp
 
 ---
 
+### 🐟 My GitHub Activity
+
+<p align="center">
+  <img src="koi/koi.gif" width="256" alt="My GitHub Activity Koi" />
+</p>
+
+<p align="center">
+  <sub>A little koi, growing with every commit. Generated daily with <a href="https://github.com/yalongwastaken/git-koi">Git Koi</a>.</sub>
+</p>
+
+---
+
 <sub>A quick note: The jokes are just for fun and aren't meant to reflect my professional approach. I take engineering, accountability, and continuous learning seriously. Wishing everyone clean builds, peaceful deployments, and a little less debugging. ✌️</sub>
